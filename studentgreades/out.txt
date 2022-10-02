@@ -1,0 +1,150 @@
+Student's name :SPWKLZWHCIE GAPCEXAS 
+Number of exam scores:11
+Exam scores:100 88 95 94 98 100 90 71 100 92 98 
+Average Exam score :93.2727
+Grade :A-
+
+Student's name :CCEPWNFVV XJME 
+Number of exam scores:11
+Exam scores:78 83 92 76 83 88 93 100 68 100 70 
+Average Exam score :84.6364
+Grade :B-
+
+Student's name :KAXVFR MAEPR X 
+Number of exam scores:7
+Exam scores:86 100 100 100 74 99 72 
+Average Exam score :90.1429
+Grade :B+
+
+Student's name :JSYE DTULCIC A 
+Number of exam scores:8
+Exam scores:100 87 100 85 86 100 79 84 
+Average Exam score :90.125
+Grade :B+
+
+Student's name :IPXMS SLOVX 
+Number of exam scores:5
+Exam scores:85 90 100 70 98 
+Average Exam score :88.6
+Grade :B+
+
+Student's name :AQGUMH BSPRXASR V 
+Number of exam scores:11
+Exam scores:68 85 100 71 95 65 100 76 89 100 98 
+Average Exam score :86.0909
+Grade :B
+
+Student's name :VXFFGIK OWVQEMVS W 
+Number of exam scores:5
+Exam scores:100 78 65 100 100 
+Average Exam score :88.6
+Grade :B+
+
+Student's name :VPBUM LLWMAR C 
+Number of exam scores:10
+Exam scores:89 98 72 84 78 100 100 100 84 88 
+Average Exam score :89.3
+Grade :B+
+
+Student's name :MKSPFF NNSR H 
+Number of exam scores:11
+Exam scores:91 89 75 67 86 90 100 100 100 100 99 
+Average Exam score :90.6364
+Grade :B+
+
+Student's name :EELIT UEGAIN W 
+Number of exam scores:8
+Exam scores:68 93 71 67 75 100 87 79 
+Average Exam score :80
+Grade :C+
+
+Student's name :TFI VZQHLLA D 
+Number of exam scores:10
+Exam scores:95 82 100 99 100 94 96 83 86 100 
+Average Exam score :93.5
+Grade :A-
+
+Student's name :BWRBCI CWWUZGT D 
+Number of exam scores:9
+Exam scores:76 100 77 81 83 94 82 90 69 
+Average Exam score :83.5556
+Grade :B-
+
+Student's name :KD MGULGFP 
+Number of exam scores:9
+Exam scores:93 87 70 98 98 70 100 81 98 
+Average Exam score :88.3333
+Grade :B+
+
+Student's name :AVWDFT BSJE R 
+Number of exam scores:9
+Exam scores:76 94 69 88 87 100 75 70 96 
+Average Exam score :83.8889
+Grade :B-
+
+Student's name :JEOVV TDIZ K 
+Number of exam scores:11
+Exam scores:90 100 100 100 75 77 100 100 87 89 92 
+Average Exam score :91.8182
+Grade :A-
+
+Student's name :zg Rjrx 
+Number of exam scores:5
+Exam scores:86 69 100 100 100 
+Average Exam score :91
+Grade :B+
+
+Student's name :YYAVR DZSC M 
+Number of exam scores:8
+Exam scores:78 100 100 68 68 100 87 85 
+Average Exam score :85.75
+Grade :B
+
+Student's name :EESU JIKYMQ 
+Number of exam scores:7
+Exam scores:100 81 100 74 100 89 100 
+Average Exam score :92
+Grade :A-
+
+Student's name :YFKENVQ LGJKRRX 
+Number of exam scores:7
+Exam scores:100 88 75 100 81 65 91 
+Average Exam score :85.7143
+Grade :B
+
+Student's name :ZGILBKIT ICTF Q 
+Number of exam scores:5
+Exam scores:100 100 81 83 75 
+Average Exam score :87.8
+Grade :B
+
+Student's name :RQHK QCIC V 
+Number of exam scores:8
+Exam scores:91 100 82 100 100 81 92 96 
+Average Exam score :92.75
+Grade :A-
+
+Student's name :MPTPTAV OZGASIN A 
+Number of exam scores:7
+Exam scores:100 68 100 89 98 84 90 
+Average Exam score :89.8571
+Grade :B+
+
+Student's name :MWACIX CGLP T 
+Number of exam scores:5
+Exam scores:100 100 71 75 80 
+Average Exam score :85.2
+Grade :B
+
+Student's name :BKOGI NTEIU R 
+Number of exam scores:9
+Exam scores:100 80 73 92 81 91 85 100 91 
+Average Exam score :88.1111
+Grade :B
+
+Student's name :XTPGP NHZR Y 
+Number of exam scores:10
+Exam scores:69 100 77 92 97 91 82 75 93 100 
+Average Exam score :87.6
+Grade :B
+
