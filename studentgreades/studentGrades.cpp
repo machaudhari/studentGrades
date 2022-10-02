@@ -3,47 +3,44 @@ using namespace std;
 
 int main()
 {
-    string S, T;
-    ifstream fin;
-    fin.open("grades.txt");
-    ofstream fout;
-    fout.open("out.txt");
+    ifstream read;
+    read.open("grades.txt");
+    ofstream write;
+    write.open("out.txt");
+    string S, Q;
 
-    while(!fin.eof())
+    while(read.eof()==0)
     {
-        getline(fin, S);
-        stringstream X(S);
+        getline(read, S);
+        stringstream P(S);
         vector<string> strs;
         vector<int> arr;
 
-        while(getline(X,T,' '))
-        {
-            strs.push_back(T);
-        }
+        while(getline(P,Q,' '))
+        strs.push_back(Q);
 
-        string sname = "";
-        bool flag = 0;
-        double n = 0, sum = 0;
-        for(string s: strs)
-        {
-            if(flag == 0 && s[0] <= '9' && s[0] >= '0')
+        string std = "";
+        bool flag = false;
+        double N = 0, sum = 0;
+        for(string s: strs){
+            if(s[0] <= '9' && s[0] >= '0'&& flag == false )
             {
-                flag = 1;
-                n = stoi(s);
+                flag = true;
+                N = stoi(s);
                 continue;
             }
         
             else if(!isdigit(s[0]))
             {
-                sname += s;
-                sname += " ";
+                std += s;
+                std += " ";
             }
             if(flag){
                 sum += stoi(s);
                 arr.push_back(stoi(s));
             }
         }
-        double avg = sum/double(n);
+        double avg = sum/double(N);
         string grade;
         if(avg<=100 & avg>95){
             grade = "A";
@@ -81,18 +78,18 @@ int main()
         else{
                 grade = "F";
         }
-        fout << "Student's name :"<<sname<<endl;
-        fout << "Number of exam scores:"<<n<<endl;
-        fout << "Exam scores:";
+        write << "Student's Name :"<<std<<endl;
+        write << "Number Of Exam Scores:"<<N<<endl;
+        write << "Exam Scores:";
         for(int i = 0;i<arr.size();i++)
         {
-            fout << arr[i]<<' ';
+            write << arr[i]<<' ';
         }
-        fout << endl;
-        fout << "Average Exam score :"<<avg<<endl;
-        fout << "Grade :"<< grade<<endl;
-        fout<<endl;
-        S = fin.get();
+        write << endl;
+        write << "Average Exam Score :"<<avg<<endl;
+        write << "Grade :"<< grade<<endl;
+        write<<endl;
+        S = read.get();
         if(S =="")
         {
             break;
