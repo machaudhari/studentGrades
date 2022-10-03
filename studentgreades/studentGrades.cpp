@@ -78,6 +78,7 @@ int main()
         else{
                 grade = "F";
         }
+        if(N){
         write << "Student's Name :"<<std<<endl;
         write << "Number Of Exam Scores:"<<N<<endl;
         write << "Exam Scores:";
@@ -89,12 +90,13 @@ int main()
         write << "Average Exam Score :"<<avg<<endl;
         write << "Grade :"<< grade<<endl;
         write<<endl;
-        S = read.get();
-        if(S =="")
-        {
-            break;
         }
-    };
+        // S = read.get();
+        // if(S =="")
+        // {
+        //     break;
+        // }
+    }
     return 0;
 
 }
